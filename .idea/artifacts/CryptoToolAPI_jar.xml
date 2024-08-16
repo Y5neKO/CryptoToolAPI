@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CryptoToolAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CryptoToolAPI_jar</output-path>
+    <root id="archive" name="CryptoToolAPI.jar">
+      <element id="module-output" name="CryptoToolAPI" />
+    </root>
+  </artifact>
+</component>
